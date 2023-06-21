@@ -1,3 +1,13 @@
+<table>
+  <tr>
+    <td>Companies</td>
+    <td><p>Facebook, Microsoft, Apple</p></td>
+  </tr>
+</table>
+
+<br>
+<br>
+
 Given an integer n, return a string array answer (1-indexed) where:
 
 <ul>
