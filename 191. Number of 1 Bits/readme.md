@@ -14,5 +14,5 @@
  <br>
     <br>
 
-  <h2>Time Complexity : </h2>
-    <h2>Space Complexity : </h2>
+  <h2>Time Complexity : O(n)</h2>
+    <h2>Space Complexity : O(1)</h2>
