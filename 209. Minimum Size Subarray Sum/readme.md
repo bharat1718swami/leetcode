@@ -1,0 +1,17 @@
+<table>
+  <tr>
+    <td>Companies: </td>
+    <td>Facebook</td>
+    <td>Amazone</td>
+    <td>Microsoft</td>
+    <td>Bloomberg</td>
+    <td>Goldman Sachs</td>
+    <td>Google</td>
+    <td>Apple</td>
+    <td>Arcesium</td>
+  </tr>
+</table>
+
+
+<h2>Time Complexity: O(n)</h2>
+<h2>Space Complexity: O(1)</h2>
