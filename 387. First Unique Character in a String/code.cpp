@@ -1,5 +1,4 @@
 // 9-6-22
-
 class Solution {
 public:
     int firstUniqChar(string s) {
